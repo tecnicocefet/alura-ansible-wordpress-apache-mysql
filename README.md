@@ -1,2 +1,2 @@
 Curso de
-Ansible: implementando sua infraestrutura como código
+Ansible: implementando sua infraestrutura como código - Alura
