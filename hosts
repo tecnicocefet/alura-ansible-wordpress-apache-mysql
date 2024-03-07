@@ -1,0 +1,5 @@
+[wordpress]
+192.168.0.18 ansible_user=jco ansible_ssh_private_key_file='/home/jco/PROJETOS/DEVOPS/Boticário/Ansible_implementando_sua_infraestrutura_como_codigo/wordpress'
+
+[mysql]
+192.168.0.19 ansible_user=jco ansible_ssh_private_key_file='/home/jco/PROJETOS/DEVOPS/Boticário/Ansible_implementando_sua_infraestrutura_como_codigo/wordpress'
